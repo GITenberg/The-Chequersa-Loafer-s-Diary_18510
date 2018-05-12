@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5023
     wikipedia: http://en.wikipedia.org/wiki/James_Runciman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18510#The-Chequersa-Loafer-s-Diary
 gutenberg_issued: '2006-06-05'
 gutenberg_type: Text
 identifiers:
